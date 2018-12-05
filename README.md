@@ -5,7 +5,16 @@
 1팀x2팀 합체팀<br>
 - 주제 : SmartFarm 야생동물 Detection Project<br>
 - 카메라 영상을 통한 야생동물을 Detection하고 인식하는 프로젝트를 기획하였다.
-- 이글아이보드, 카메라, 
+
+<pre><code>
+- Eageleye 530s or Rpi3 or Artik1
+- USB Camera1
+- Tizen 5.0
+- SmartThings
+- Smart Surveillance Camera Application
+- IoT.js
+</code></pre>
+
 
 ## 프로젝트 설명
 
@@ -18,6 +27,7 @@
 <p align="center">
  <img src="./images/2.jpg" width= "500">
 </p>
+
 ### 영상을 원하는 컬러로 출력하는 필터 구현
 <p align="center">
  <img src="./images/3.jpg" width= "500">
