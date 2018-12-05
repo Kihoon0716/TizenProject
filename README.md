@@ -1,19 +1,18 @@
 # 2018 미니 해커톤
-카메라를 사용하여 이미지를 분석한 후 출력하기
+* 카메라를 사용하여 이미지를 분석한 후 출력하기
+* 2018.11.27 ~ 28
 
 ## 제3회 공개SW 커뮤니티데이
 1팀x2팀 합체팀<br>
 - 주제 : SmartFarm 야생동물 Detection Project<br>
 - 카메라 영상을 통한 야생동물을 Detection하고 인식하는 프로젝트를 기획하였다.
 
-<pre><code>
-- Eageleye 530s or Rpi3 or Artik1
+<pre><code>- Eageleye 530s or Rpi3 or Artik1
 - USB Camera1
 - Tizen 5.0
 - SmartThings
 - Smart Surveillance Camera Application
-- IoT.js
-</code></pre>
+- IoT.js</code></pre>
 
 
 ## 프로젝트 설명
