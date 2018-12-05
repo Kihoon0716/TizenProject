@@ -40,11 +40,8 @@
  
  
  <p align="center">
-  <img src="./images/7.jpg" width= "500">
+  <img src="./images/7.jpg" width= "500" >
  </p>
  
  * smarthings develope에서 components 설정 및 device 등록
- 
-<p align="center">
- <img src="./images/6.jpg" width= "500">
-</p>
+
