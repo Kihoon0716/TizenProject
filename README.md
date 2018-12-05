@@ -6,10 +6,12 @@
 - 주제 : SmartFarm 야생동물 Detection Project<br>
 - 카메라 영상을 통한 야생동물을 Detection하고 인식하는 프로젝트를 기획하였다.
 - 이글아이보드, 카메라, 
+
 ## 프로젝트 설명
 <p align="center">
  <img src="./images/1.jpg" width= "500" >
 </p>
+
 * YUV 값 get / set 코드 구현
 
 <p align="center">
@@ -35,6 +37,12 @@
  </p>
  
  * samsung smart-things 연동을 위한 master.json / resourse.json 수정
+ 
+ 
+ <p align="center">
+  <img src="./images/7.jpg" width= "500">
+ </p>
+ 
  * smarthings develope에서 components 설정 및 device 등록
  
 <p align="center">
