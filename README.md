@@ -4,7 +4,7 @@
 
 ## TIZEN 1팀x2팀
 <br>
-- 주제 : SmartFarm 야생동물 Detection Project<br>
+- 주제 : **SmartFarm 야생동물 Detection Project**
 - 카메라 영상을 통한 야생동물을 Detection하고 인식하는 프로젝트를 기획하였다.
 
 <pre><code>- Eageleye 530s or Rpi3 or Artik1
