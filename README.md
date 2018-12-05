@@ -7,7 +7,7 @@
 - 카메라 영상을 통한 야생동물을 Detection하고 인식하는 프로젝트를 기획하였다.
 
 <p align="center">
-<img src="./images/1.jpg" width= "100" >
+<img src="./images/1.jpg" width= "400" >
 <img src="./images/2.jpg" >
  <img src="./images/3.jpg" >
  <img src="./images/4.jpg" >
